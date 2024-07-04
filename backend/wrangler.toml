@@ -3,3 +3,4 @@ compatibility_date = "2023-12-01"
 
 [vars]
 DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOTY2MmQyODEtZTdjMi00MjFiLTgwZjktZGIxZTc4NzQwYjM0IiwidGVuYW50X2lkIjoiODZkMGJmMjFjMjA5MjkxZDBmNzBiNmFhNGNlYTVhOGVmZGJiNDBmYmU3NTkxYTkwOTk1ZjgyYjVlMjJjZGFlMSIsImludGVybmFsX3NlY3JldCI6ImZiM2M2NjllLTNhZjYtNDMyYS04NzEwLTM3ZGUzOTU0MmFhNSJ9.EVV3-H4tknzDgda_jcNDFumjzm2KNWAv5Si6McfBwpE"
+JWT_SECRET="GreenGoblin"
